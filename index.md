@@ -212,6 +212,8 @@ special instructions.
 </p>
 {% endif %}
 
+<a href="https://www.iom.ac.uk/registration">Registration</a> is online and open to any staff and students at Uni of Manchester for free. 
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
